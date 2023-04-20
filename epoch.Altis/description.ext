@@ -1,0 +1,8 @@
+/*
+	Merge the contents of this file with your description.ext 
+*/
+
+class RscTitles 
+{ 
+	#include "addons\Status_Bar\statusBar.hpp"
+};
