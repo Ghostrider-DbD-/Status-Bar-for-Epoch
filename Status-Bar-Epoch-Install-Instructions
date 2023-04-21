@@ -1,0 +1,33 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+All credit for this script goes to Ghostrider [GRG] - Visit Ghostriders github at: https://github.com/Ghostrider-DbD-
+Install instructions by Nicho1494.
+DarthRogue for the variant upon which this is based.
+The Epoch Mod team for an amazing mod.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//GRG Status Bar for Epoch//
+	
+//Step 1;
+
+	Download the file "Status-Bar-for-Epoch" and extract it to your documents.
+	
+	Unpack your MPMission - epoch.Altis.pbo (Changes dependable on the map you are using)
+
+//Step 2;
+	
+	Open Status-Bar-for-Epoch-main\epoch.Altis\addons\status_bar\playerBar.sqf and change the restart time to meet your servers needs. The default time is 4 hours.
+
+	Copy the addons file and place it in the main epoch.Altis.pbo file (Or copy the contents to your addons folder)
+	
+	Merge the description.ext and init.sqf files with those already in your MPMissions file. (If you do not have an init.sqf already, just copy and paste the one included).
+	
+//Step 3;
+
+	Repack your file and upload to your server.
+	
+	Restart your server and ensure no errors are present in your RPT.
+
+Additional scripts are avalible from GhostriderGaming [GRG] - Find the link at the top of this file!
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
